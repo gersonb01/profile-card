@@ -1,0 +1,53 @@
+.estatic_bg {
+  background-image: url(../img/bg.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 1040px;
+  height: 600px;
+}
+.estatic_bg img {
+  margin: 254px 474px 254px 474px;
+  border-radius: 100%;
+}
+.estatic_bg .identificacao {
+  margin: -250px 0px 227px 425px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  color: #515151;
+}
+.age {
+  color: #8f8f8f;
+}
+.location {
+  margin: -225px 0px 227px 476px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: #515151;
+}
+.numeral {
+  margin: -209px 0px 227px 280px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  color: #515151;
+}
+.numeral li {
+  list-style: none;
+  margin-left: 70px;
+  display: inline-block;
+}
+.informacoes {
+  margin: -226px 0px 227px 285px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 10px;
+  color: #515151;
+}
+.informacoes li {
+  list-style: none;
+  margin-left: 60px;
+  display: inline-block;
+}
+.fotos {
+  padding-left: 15px;
+}
